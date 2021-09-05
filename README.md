@@ -20,4 +20,4 @@ Funcionando para termux, Kali Linux, parrot security.
 * `git clone https://github.com/piratainformatico2/passWordFusk`
 * `cd passWordFusk`                                                    
 * `chmod +x *`
-* `bash passWordFusk`
+* `bash PassWordFusk`
