@@ -5,7 +5,7 @@
 
 
 ### passWordFusk :
-*Increíble herramienta **PassWord**.
+* **PassWord**.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖sharkcode᭖᭕ᬁ⍣ `
 
