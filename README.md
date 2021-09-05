@@ -16,7 +16,8 @@
 Funcionando para termux, Kali Linux, parrot security.
 
 * `apt update && apt upgrade -y`
-* 'gem install lolcat'
+
+* `gem install lolcat`
 * `git clone https://github.com/piratainformatico2/passWordFusk`
 * `cd passWordFusk`                                                    
 * `chmod +x *`
