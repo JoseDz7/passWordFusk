@@ -1,1 +1,3 @@
+<h1 align="center"><a href="https://github.com/piratainformatico2"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖sharkcode᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
 ![Image text](https://github.com/piratainformatico2/passWordFusk/blob/main/Screenshot_20210904-201429.png)
+
